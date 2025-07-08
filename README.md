@@ -89,7 +89,6 @@ This is a simple Java-based e-commerce checkout system that supports product man
   - `behavior` → Interfaces or abstract behaviors shared by products  
      (e.g. `Expirable`, `Shippable`)
   - `service` → Utility classes like `ShippingService`
-  - You may also add `utils` or `exception` packages if needed later
 
 ---
 
